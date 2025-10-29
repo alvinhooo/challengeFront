@@ -16,7 +16,7 @@ export default function Assistente() {
   }, [listening]);
 
   return (
-    <main className="flex flex-col items-center justify-center bg-gray-100 py-10 px-4 min-h-[80vh]">
+    <main className="flex flex-col items-center justify-center bg-gray-100 py-10 px-4 min-h-screen">
       <div className="bg-white rounded-2xl shadow-md p-6 w-full max-w-sm text-center">
         <section className="flex items-center justify-center mb-4">
           <img

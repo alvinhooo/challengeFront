@@ -19,7 +19,7 @@ export default function ContatoForm() {
   };
 
   return (
-    <main className="bg-gray-100 py-10 px-4 min-h-[80vh] flex items-start justify-center">
+    <main className="bg-gray-100 py-10 px-4 min-h-screen flex items-start justify-center">
       <div className="bg-white rounded-lg shadow-md p-6 w-full max-w-md">
         <h2 className="text-center text-xl font-bold mb-6">Envie uma mensagem</h2>
         <form onSubmit={handleSubmit(onSubmit)} className="flex flex-col space-y-4">

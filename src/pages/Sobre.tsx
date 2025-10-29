@@ -4,7 +4,7 @@ import Foto2Img from "../assets/hospital.jpeg"
 
 export default function Sobre(){
   return (
-    <main className="bg-gray-100 py-10 px-6 min-h-[80vh]">
+    <main className="bg-gray-100 py-10 px-6 min-h-screen">
       <div className="max-w-6xl mx-auto space-y-12">
         <header className="text-center mb-10">
           <h1 className="text-3xl font-bold text-blue-700">Hospital das Clínicas</h1>

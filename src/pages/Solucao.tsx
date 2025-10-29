@@ -2,7 +2,7 @@ export default function Solucao(){
   
   
   return (
-    <main className="bg-gray-100 py-12 px-6 min-h-[80vh]">
+    <main className="bg-gray-100 py-12 px-6 min-h-screen">
       <div className="max-w-5xl mx-auto">
         <header className="text-center mb-10">
           <h1 className="text-3xl font-bold text-blue-700">Solução Proposta</h1>

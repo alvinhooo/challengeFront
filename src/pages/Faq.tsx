@@ -13,7 +13,7 @@
 
   export default function Faq(){
   return (
-    <main className="bg-gray-100 py-10 px-6 min-h-[80vh] flex items-start justify-center">
+    <main className="bg-gray-100 py-10 px-6 min-h-screen flex items-start justify-center">
       <div className="bg-white rounded-lg shadow-md p-8 w-full max-w-3xl">
         <h2 className="text-2xl font-bold text-center text-blue-700 mb-8">Perguntas Frequentes</h2>
         <section className="space-y-6">

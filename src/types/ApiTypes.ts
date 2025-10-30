@@ -1,4 +1,4 @@
-// src/types/ApiTypes.ts
+
 export interface Integrante {
   id: number | string;
   nome: string;
@@ -14,9 +14,7 @@ export interface ContatoPayload {
   mensagem: string;
 }
 
-/**
- * Example of Union and Intersection types
- */
+
 export type Id = number | string;
 export type Maybe<T> = T | null | undefined;
 

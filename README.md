@@ -26,12 +26,16 @@ FIAP - Faculdade de Informática e Administração Paulista
 Curso: Tecnologia em Desenvolvimento de Sistemas para Internet
 Equipe: InovaCare - Turma: 1TDSPI
 
-📼 Vídeo de apresentação
+📼 Vídeo de apresentação:
 https://youtu.be/RLw0At3wVt8
 
 
-Link do github
+Link do github:
 https://github.com/Challenge-Fiap-2025/Challenge_frontend2
+
+
+URL do deploy no VERCEL:
+https://challenge-front-delta.vercel.app/
 
 🎯 Objetivos
 
@@ -111,7 +115,15 @@ src/
 │
 ├── routes/                # configuração das rotas
 │   └── AppRoutes.tsx
+|
+|                          # conexão com a API
+├── services/
+|    └── Api.ts
+|
+├── types/
+|    └── ApiTypes.ts
 │
+|
 ├── App.css
 ├── App.tsx
 ├── index.css

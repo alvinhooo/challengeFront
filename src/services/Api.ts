@@ -1,6 +1,3 @@
-// src/services/api.ts
-// Fetch wrapper (no external libs). Uses VITE_API_URL from environment.
-// Falls back to the provided API URL for immediate testing.
 export const API_BASE = (import.meta.env.VITE_API_URL as string) || "https://javasprint04.onrender.com";
 
 type RequestOptions = {

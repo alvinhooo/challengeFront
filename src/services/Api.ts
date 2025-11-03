@@ -1,4 +1,4 @@
-export const API_BASE = (import.meta.env.VITE_API_URL as string) || "https://javasprint04.onrender.com";
+export const API_BASE = (import.meta.env.VITE_API_URL as string) || "https://java04sprint.onrender.com";
 
 type RequestOptions = {
   method?: 'GET' | 'POST' | 'PUT' | 'DELETE';

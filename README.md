@@ -31,7 +31,7 @@ https://youtu.be/RLw0At3wVt8
 
 
 Link do github:
-https://github.com/Challenge-Fiap-2025/Challenge_frontend2
+https://github.com/Challenge-Fiap-2025/SprintFront04.git
 
 
 URL do deploy no VERCEL:
